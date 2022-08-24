@@ -7,3 +7,5 @@ Side Bar - Contains different views like the Explorer to assist you while workin
 Status Bar - Information about the opened project and the files you edit.
 Activity Bar - Located on the far left-hand side, this lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled.
 Panels - You can display different panels below the editor region for output or debug information, errors and warnings, or an integrated terminal. Panel can also be moved to the right for more vertical space.
+
+this line is written while looking for pull request.
